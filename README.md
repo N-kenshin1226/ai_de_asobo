@@ -7,7 +7,7 @@ Google AI Studio（無料）の長いコンテキストを使って、AIをゲ�
 | ゲーム | ジャンル | 元ネタの雰囲気 |
 |---|---|---|
 | [一族百年記](games/ichizoku_hyakunenki.md) | 家系図育成 | 俺の屍を越えてゆけ |
-| [鐘の下で](games/kane_no_shita.md) | 恋愛シミュレーション | ときめきメモリアル |
+| [鐘の下で](games/kane_no_shita.md) | 育成型恋愛シミュレーション | ときめきメモリアル |
 
 ## AI Studio の設定（最初に1回だけ）
 
